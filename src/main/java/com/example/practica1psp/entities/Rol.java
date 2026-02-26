@@ -2,7 +2,8 @@ package com.example.practica1psp.entities;
 
 public enum Rol {
     ADMIN("ADMIN"),
-    USER("USER");
+    USER("USER"),
+    GUEST("GUEST");
 
     private final String rol;
 

@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.practica1psp.entities.Usuario;
 import com.example.practica1psp.repositories.UsuarioRepository;
-import com.example.practica1psp.security.Constans;
 import com.example.practica1psp.security.JWTAuthenticationConfig;
 import com.example.practica1psp.security.PasswordEncryptor;
 
